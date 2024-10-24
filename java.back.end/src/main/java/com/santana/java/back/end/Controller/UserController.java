@@ -9,6 +9,6 @@ public class UserController {
     @GetMapping("/") // que retornará uma mensagem simples para o usuario
 
     public String getMensagem() {
-        return "Spring boot is working";
+        return "katty baixinha katty baixinha katty baixinha katty baixinha";
     }
 }
